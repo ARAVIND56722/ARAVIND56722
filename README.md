@@ -58,65 +58,25 @@ I'm an aspiring Software Engineer passionate about building scalable application
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Highlighted Projects
 
-## ⚡ ETK Energy Trading Platform
+### ⚡ [ETK Energy  Platform](https://github.com/ARAVIND56722/ETK-Energy-Marketplace)
+Blockchain-powered peer-to-peer energy trading system using Ethereum smart contracts and Web3 integration.
 
-Blockchain-based peer-to-peer energy trading platform enabling users to simulate and execute energy token transactions.
+### 🔗 [URL Shortener](https://github.com/ARAVIND56722/shortify)
+Production-ready MERN application with authentication and analytics.
 
-### Key Features
-- ERC-20 EnergyToken smart contract development
-- Ethereum Sepolia Testnet deployment
-- Real-time token transfer dashboard
-- Wallet balance tracking
-- Blockchain transaction history
-- Smart contract integration using Web3.py
+### 🤖 [Autonomous AI Research Agent](https://github.com/ARAVIND56722/-Autonomous-AI-Research-Agent)
+AI-powered system that automates research workflows.
 
-### Tech Stack
-`Solidity` `Ethereum` `Web3.py` `Python` `Streamlit`
+### ☕ [Java DSA Interview Prep](https://github.com/ARAVIND56722/Java-DSA)
+Interview-focused Data Structures & Algorithms solutions in Java.
 
-🔗 Repository: [Add Repository Link]
+### 🍲 [Food Rescue Logistics Platform](https://github.com/ARAVIND56722/food-rescue-platform)
+Hackathon project focused on reducing food waste and hunger.
 
----
-
-## 🔗 URL Shortener
-
-A production-ready full-stack URL shortening platform.
-
-### Key Features
-- Secure Authentication
-- URL Shortening Service
-- Click Analytics
-- Responsive UI
-- RESTful APIs
-- Deployment on Vercel & Render
-
-### Tech Stack
-`MongoDB` `Express.js` `React.js` `Node.js`
-
-🔗 Repository: [Add Repository Link]
-
-🔗 Live Demo: [Add Deployment Link]
-
----
-
-## 📚 Data Structures & Algorithms Repository
-
-Collection of coding interview solutions and optimized algorithm implementations.
-
-### Key Features
-- LeetCode Problem Solutions
-- Optimized Java Implementations
-- Time & Space Complexity Analysis
-- Interview Preparation Resources
-- Organized Topic-wise Solutions
-
-### Tech Stack
-`Java` `Algorithms` `Data Structures`
-
-🔗 Repository: [Add Repository Link]
-
----
+### 🏙 [Civic Issue Reporting System](https://github.com/ARAVIND56722/civic-issue)
+Community-driven platform for reporting and tracking civic issues.
 
 ## 🏆 Achievements
 
