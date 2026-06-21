@@ -109,7 +109,7 @@ Production-ready MERN application with authentication and analytics.
 ### 🤖 [Autonomous AI Research Agent](https://github.com/ARAVIND56722/-Autonomous-AI-Research-Agent)
 AI-powered system that automates research workflows.
 
-### ☕ [Java DSA Interview Prep](https://github.com/ARAVIND56722/Java-DSA)
+### ☕ [Java DSA Interview Prep](https://github.com/ARAVIND56722/Java-Data-Structure)
 Interview-focused Data Structures & Algorithms solutions in Java.
 
 ### 🍲 [Food Rescue Logistics Platform](https://github.com/ARAVIND56722/food-rescue-platform)
