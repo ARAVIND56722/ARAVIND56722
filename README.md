@@ -26,24 +26,24 @@ I'm an aspiring Software Engineer with hands-on experience building Full-Stack, 
 
 ## 🏆 Achievements & Recognition
 
-🥇 **Winner – International Level Hackathon 360° (2026)**
+- 🥇 **Winner – International Level Hackathon 360° (2026)**
 Awarded for **ETKGrid – Transparent Blockchain Ledger with Microgrid Energy Sharing**, organized by **Eclearnix** in collaboration with **KPR Institute of Engineering and Technology (KPRIT)**.
 
-🏅 **Finalist – National Level Hackathon CRYPTERA 2026**
+- 🏅 **Finalist – National Level Hackathon CRYPTERA 2026**
 Recognized for developing the **NGO Management System** at **Coimbatore Institute of Technology (CIT)**.
 
-🎓 **Honors in Blockchain Technology (2026)**
+- 🎓 **Honors in Blockchain Technology (2026)**
 Successfully completed the Honors Program in Blockchain Technology at **Dr. N.G.P. Institute of Technology**.
 
-🚀 **Project Expo 2026 Participant**
+- 🚀 **Project Expo 2026 Participant**
 Presented **Food Rescue Logistics Platform – Reducing Food Waste & Hunger** at **Project Expo 2026**, Dr. N.G.P. Institute of Technology.
 
-📄 **Research Paper Presenter**
+- 📄 **Research Paper Presenter**
 
 * Presented paper at **ICRIT 2026**, Grace College of Engineering, Thoothukudi.
 * Presented paper at **NCATSM 2026**, Karpagam Academy of Higher Education, Coimbatore.
 
-📜 **Professional Certifications**
+- 📜 **Professional Certifications**
 
 * NPTEL – Human Computer Interaction
 * NPTEL – Privacy and Security in Online Social Media
