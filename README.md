@@ -4,7 +4,7 @@
 
 ### 🏆 International  Hackathon Winner| Software Developer |  Blockchain Developer | Java Enthusiast 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Software+Developer;Blockchain+Developer;AI+Application+Builder; International+Hackathon+Winner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Software+Developer;Blockchain+Developer;AI+Application+Builder;International+Hackathon+Winner" />
 
 </div>
 
