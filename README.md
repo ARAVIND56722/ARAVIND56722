@@ -124,14 +124,6 @@ Community-driven platform for reporting and tracking civic issues.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aravind56722&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind56722&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=aravind56722&theme=tokyonight" />
 
 </div>
