@@ -119,6 +119,7 @@ Hackathon project focused on reducing food waste and hunger.
 Community-driven platform for reporting and tracking civic issues.
 
 
+---
 
 ## 📈 GitHub Statistics
 
