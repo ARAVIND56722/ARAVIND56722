@@ -47,6 +47,7 @@ Presented **Food Rescue Logistics Platform – Reducing Food Waste & Hunger** at
 
 * NPTEL – Human Computer Interaction
 * NPTEL – Privacy and Security in Online Social Media
+  
 ---  
 ## 🛠️ Tech Stack
 
